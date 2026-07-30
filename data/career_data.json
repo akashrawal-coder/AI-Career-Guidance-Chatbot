@@ -1,0 +1,140 @@
+{
+  "careers": [
+    {
+      "title": "Software Developer",
+      "description": "Designs, develops, tests, and maintains software applications.",
+      "skills": [
+        "Python",
+        "Java",
+        "C++",
+        "Data Structures",
+        "Algorithms",
+        "Git"
+      ],
+      "average_salary": "₹6-15 LPA",
+      "recommended_courses": [
+        "Data Structures & Algorithms",
+        "Web Development",
+        "System Design"
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "description": "Analyzes data to extract valuable insights using statistics and machine learning.",
+      "skills": [
+        "Python",
+        "SQL",
+        "Machine Learning",
+        "Statistics",
+        "Pandas",
+        "NumPy"
+      ],
+      "average_salary": "₹8-20 LPA",
+      "recommended_courses": [
+        "Machine Learning",
+        "Deep Learning",
+        "Data Analysis"
+      ]
+    },
+    {
+      "title": "AI/ML Engineer",
+      "description": "Builds artificial intelligence and machine learning solutions.",
+      "skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Deep Learning",
+        "NLP"
+      ],
+      "average_salary": "₹10-25 LPA",
+      "recommended_courses": [
+        "Deep Learning",
+        "Natural Language Processing",
+        "Computer Vision"
+      ]
+    },
+    {
+      "title": "Web Developer",
+      "description": "Develops websites and web applications.",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Flask",
+        "Node.js"
+      ],
+      "average_salary": "₹4-12 LPA",
+      "recommended_courses": [
+        "Frontend Development",
+        "Backend Development",
+        "Full Stack Development"
+      ]
+    },
+    {
+      "title": "Cyber Security Analyst",
+      "description": "Protects systems and networks from cyber threats.",
+      "skills": [
+        "Networking",
+        "Linux",
+        "Ethical Hacking",
+        "Penetration Testing",
+        "Security Tools"
+      ],
+      "average_salary": "₹6-18 LPA",
+      "recommended_courses": [
+        "CEH",
+        "CompTIA Security+",
+        "Network Security"
+      ]
+    }
+  ],
+
+  "resume_tips": [
+    "Keep your resume to one page.",
+    "Use action verbs like Developed, Built, Designed.",
+    "Include projects with GitHub links.",
+    "Highlight technical skills.",
+    "Mention internships and certifications.",
+    "Avoid grammar mistakes.",
+    "Tailor your resume for each job."
+  ],
+
+  "interview_tips": [
+    "Practice Data Structures and Algorithms.",
+    "Prepare HR interview questions.",
+    "Revise DBMS, OS, OOPs, and Computer Networks.",
+    "Practice coding on LeetCode or HackerRank.",
+    "Research the company before the interview.",
+    "Communicate confidently."
+  ],
+
+  "certifications": [
+    "Google Data Analytics",
+    "Google AI Essentials",
+    "AWS Cloud Practitioner",
+    "Microsoft Azure Fundamentals",
+    "IBM Data Science",
+    "Meta Front-End Developer",
+    "Cisco CCNA"
+  ],
+
+  "faq": [
+    {
+      "question": "Which programming language should I learn first?",
+      "answer": "Python is beginner-friendly and widely used in AI, automation, and web development."
+    },
+    {
+      "question": "How can I prepare for placements?",
+      "answer": "Practice DSA, build projects, improve communication skills, and revise core CS subjects."
+    },
+    {
+      "question": "Is AI a good career?",
+      "answer": "Yes. AI and Machine Learning continue to have strong demand across industries."
+    },
+    {
+      "question": "How do I improve my resume?",
+      "answer": "Include measurable achievements, projects, internships, certifications, and keep formatting clean."
+    }
+  ]
+}
