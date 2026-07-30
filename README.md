@@ -140,9 +140,19 @@ Create a folder named **screenshots** and add images of your application after r
 Example:
 
 ```
-screenshots/
-    home.png
-    chat.png
+## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/homepage.png)
+
+### Chat Interface
+
+![Chat Interface](screenshots/conversations.png)
+
+### Career Guidance Response
+
+![Career Guidance](screenshots/interface.png)
 ```
 
 ---
