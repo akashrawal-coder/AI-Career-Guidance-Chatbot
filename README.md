@@ -144,15 +144,15 @@ Example:
 
 ### Home Page
 
-![Home Page](screenshots/homepage.png)
+![Home Page](blob/main/screenshots/screenshots/home.png.png)
 
 ### Chat Interface
 
-![Chat Interface](screenshots/conversations.png)
+![Chat Interface](blob/main/screenshots/screenshots/interface.png.png)
 
 ### Career Guidance Response
 
-![Career Guidance](screenshots/interface.png)
+![Career Guidance](blob/main/screenshots/screenshots/coversations.png.png)
 ```
 
 ---
